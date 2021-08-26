@@ -1,0 +1,1 @@
+A simple Demo about how to support web by react native 
